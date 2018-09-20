@@ -1,0 +1,24 @@
+_repo: The-Hospital-Bulletin-Vol-V-No-3-May-15-1909_52967
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Medical colleges -- Alumni and alumnae -- Maryland -- Baltimore -- Periodicals'
+- !lcsh 'Medicine -- Periodicals'
+- GITenberg
+title: The Hospital Bulletin, Vol. V, No. 3, May 15, 1909
+url: http://www.gutenberg.org/ebooks/52967
